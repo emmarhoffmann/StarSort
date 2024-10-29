@@ -45,7 +45,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Read the dataset
-df = pd.read_csv(r'C:\Users\Emma Hoffmann\OneDrive\PROFESSIONAL\NaiveBayesStars\Stars.csv')
+df = pd.read_csv(r'C:\Users\Emma Hoffmann\OneDrive\PROFESSIONAL\StarSort\Stars.csv')
 
 # Separate features and target
 X = df[['Temperature (K)', 'Luminosity(L/Lo)', 'Radius(R/Ro)', 'Absolute magnitude(Mv)']]
