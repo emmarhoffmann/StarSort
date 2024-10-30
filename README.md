@@ -1,4 +1,5 @@
-# StarSort
+# StarSort: Machine Learning Classification for Star Types
+
 
 ## Overview
 StarSort is a Python-based machine learning project that classifies stars into distinct types based on their physical attributes. By leveraging multiple algorithms—such as Naive Bayes, Random Forest, SVM, Neural Network, and Decision Tree—StarSort provides a comprehensive analysis of classification performance and visualization of results. This project is ideal for exploring machine learning techniques in astrophysics data.
