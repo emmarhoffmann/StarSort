@@ -12,7 +12,7 @@ StarSort is a Python-based machine learning project that classifies stars into d
 - **Comprehensive Classification Report**: Outputs precision, recall, and F1-scores for each star type, providing insights into model performance on each class.
 
 ## Dataset
-The dataset used, `Stars.csv`, includes various features such as:
+The dataset used, `Stars.csv` (from https://www.kaggle.com/datasets/deepu1109/star-dataset), includes various features such as:
 - **Temperature (K)**
 - **Luminosity (L/Lo)**
 - **Radius (R/Ro)**
